@@ -17,8 +17,14 @@ Finalmente puede modificar el codigo para ejecutar la automatizacion las veces q
 //Vulnerabilidades encontradas
 
 //no valida campos
+
 //script injection->los campos no validan el ingreso de solo texto y etiqueta <script/>
+
 //no valida spam injection
+
 //probable denegacion de servicios
+
 //validacion de largo campos->denegacion bd
+
 //posible baneo de mercado pago por abuso de api (nuevo cliente = nuevo pago)
+
